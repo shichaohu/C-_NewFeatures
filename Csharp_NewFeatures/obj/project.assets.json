@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures.csproj",
+      "projectUniqueName": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures.csproj",
       "projectName": "Csharp_NewFeatures",
-      "projectPath": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures.csproj",
+      "projectPath": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures\\obj\\",
+      "outputPath": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
