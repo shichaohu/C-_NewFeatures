@@ -1,0 +1,10 @@
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\bin\Debug\netcoreapp1.1\Csharp_NewFeatures.deps.json
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\bin\Debug\netcoreapp1.1\Csharp_NewFeatures.runtimeconfig.json
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\bin\Debug\netcoreapp1.1\Csharp_NewFeatures.runtimeconfig.dev.json
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\bin\Debug\netcoreapp1.1\Csharp_NewFeatures.dll
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\bin\Debug\netcoreapp1.1\Csharp_NewFeatures.pdb
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\obj\Debug\netcoreapp1.1\Csharp_NewFeatures.csprojResolveAssemblyReference.cache
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\obj\Debug\netcoreapp1.1\Csharp_NewFeatures.csproj.CoreCompileInputs.cache
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\obj\Debug\netcoreapp1.1\Csharp_NewFeatures.AssemblyInfo.cs
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\obj\Debug\netcoreapp1.1\Csharp_NewFeatures.dll
+E:\project\本地项目\GitHub\C#_NewFeatures\Csharp_NewFeatures\obj\Debug\netcoreapp1.1\Csharp_NewFeatures.pdb
