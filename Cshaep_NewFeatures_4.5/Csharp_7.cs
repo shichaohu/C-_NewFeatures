@@ -29,11 +29,11 @@ namespace Cshaep_NewFeatures_4._5
             var data = Test02_1();
             Console.WriteLine($"返回1：{data.Item1},返回2：{data.Item2},返回3：{data.Item3},");
 
-            var data2 = Test02_2();
+            var data2 = Test02_2(("a", "b", "c"));
             Console.WriteLine($"返回1：{data2.a},返回2：{data2.b},返回3：{data2.c},");
 
-            (string a, string b, string c) = Test02_2();
-            Console.WriteLine($"返回1：{a},返回2：{b},返回3：{c},");
+            (string a2, string b2, string c2) = Test02_2(("d", "e", "f"));
+            Console.WriteLine($"返回1：{a2},返回2：{b2},返回3：{c2},");
 
 
             //3. Pattern Matching(匹配模式)
@@ -119,9 +119,9 @@ namespace Cshaep_NewFeatures_4._5
         {
             return new Tuple<string, string, string>("a", "b", "c");
         }
-        private static (string a, string b, string c) Test02_2()
+        private static (string a, string b, string c) Test02_2((string a, string b, string c) tupleIn)
         {
-            return ("a", "b", "c");
+            return (tupleIn.a + "a", tupleIn.b + "b", tupleIn.c + "c");
         }
 
         private dynamic Test03(object a)
@@ -144,9 +144,9 @@ namespace Cshaep_NewFeatures_4._5
             }
             return data;
         }
-        
+
         private ref int GetByIndex(int[] arr, int ix) => ref arr[ix];  //获取指定数组的指定下标
-        
+
     }
 
     class Person7

@@ -11,7 +11,7 @@ namespace Cshaep_NewFeatures_4._5
 {
     public class Csharp_6
     {
-        public void Init()
+        public void Init() 
         {
             //一、字符串插值
             Person person = new Person { FirstName = "Jack", LastName = "Wang", Age = 100 };
