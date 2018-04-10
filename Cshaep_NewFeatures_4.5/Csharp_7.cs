@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,9 @@ namespace Cshaep_NewFeatures_4._5
     {
         public void Init()
         {
+            Stopwatch sw = new Stopwatch();
+            
+
             //1. out-variables(Out变量)
             //以前,我们使用out变量的时候,需要在外部先申明,然后才能传入方法,类似如下:
 

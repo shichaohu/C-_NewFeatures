@@ -7045,11 +7045,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures.csproj",
+      "projectUniqueName": "E:\\project\\local\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures.csproj",
       "projectName": "Csharp_NewFeatures",
-      "projectPath": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures.csproj",
+      "projectPath": "E:\\project\\local\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\Csharp_NewFeatures.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\本地项目\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\obj\\",
+      "outputPath": "E:\\project\\local\\GitHub\\C#_NewFeatures\\Csharp_NewFeatures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7060,12 +7060,19 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+        "http://192.168.0.217/nuget": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
